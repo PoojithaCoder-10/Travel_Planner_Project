@@ -37,3 +37,12 @@ You need a modern web browser to run this project.
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/travel-planner.git
+   cd travel-planner
+## Usage
+- Navigate to the Plan Your Trip section.
+- Enter your desired Destination.
+- Select Start Date and End Date.
+- Click on Submit to view the trip details.
+
+## Responsive Design
+The navigation bar includes a hamburger menu for smaller screens, making the application accessible and user-friendly on both desktop and mobile devices.
