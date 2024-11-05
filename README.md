@@ -7,6 +7,8 @@
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Conclusion](#conclusion)
+
 
 ---
 
@@ -33,4 +35,9 @@ You need a modern web browser to run this project.
 - Enter your desired Destination.
 - Select Start Date and End Date.
 - Click on Submit to view the trip details.
+
+## Conclusion
+Travel Planner is a straightforward tool to help you organize your trips quickly and easily. With an easy-to-use design, you can select destinations, set dates, and view trip details in just a few steps. This project can be expanded with more features like maps, weather info, and travel tips to make planning even more enjoyable.
+
+Thank you for choosing Travel Planner – happy travels!
 
