@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#Getting Started)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
 
 ---
